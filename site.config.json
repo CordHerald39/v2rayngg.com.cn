@@ -1,0 +1,89 @@
+{
+  "n": 7,
+  "domain": "v2rayngg.com.cn",
+  "name": "v2rayNG 下载指南",
+  "subject": "v2rayNG",
+  "theme": "jade",
+  "color": "#14614e",
+  "title": "v2rayNG 安卓下载与安装教程",
+  "hero": [
+    "选对安卓安装包，",
+    "再完成第一次连接。"
+  ],
+  "description": "v2rayNG 安卓下载指南，核对 2dust 原始仓库、APK 架构和发行版本，提供安装、订阅导入、VPN 授权与首次连接教程。",
+  "kicker": "ANDROID / DOWNLOAD & START",
+  "focus": "下载与首次使用",
+  "repo": "2dust/v2rayNG",
+  "intro": "从官方项目入口开始，按设备架构找到 APK。每一步都有检查点，不把导入完成当作连接成功。",
+  "related": [
+    [
+      "nekobox.com.cn",
+      "NekoBox 中文指南",
+      "比较 Android 客户端与分应用设置",
+      4176
+    ],
+    [
+      "xmmclash.com.cn",
+      "小猫咪 Clash",
+      "了解 Clash 客户端与订阅的区别",
+      4174
+    ]
+  ],
+  "paths": [
+    "choose-client",
+    "import-subscription",
+    "apk-update",
+    "vpn-permission",
+    "first-connection",
+    "download-check"
+  ],
+  "repository": "2dust/v2rayNG",
+  "previewPort": 4179,
+  "verified": "2026-09-20",
+  "categories": [
+    [
+      "downloads",
+      "v2rayNG 下载",
+      "核对系统、架构与原始发布来源。"
+    ],
+    [
+      "tutorials",
+      "使用教程",
+      "从准备到首次连接，按步骤完成。"
+    ],
+    [
+      "configuration",
+      "配置指南",
+      "理解订阅、路由与备份的边界。"
+    ],
+    [
+      "troubleshooting",
+      "问题排查",
+      "先记录现象，再逐层定位原因。"
+    ]
+  ],
+  "featuredGuides": [
+    "choose-client",
+    "import-subscription",
+    "apk-update",
+    "vpn-permission",
+    "first-connection",
+    "download-check"
+  ],
+  "relatedSites": [
+    {
+      "domain": "nekobox.com.cn",
+      "name": "NekoBox 中文指南",
+      "reason": "比较 Android 客户端与分应用设置",
+      "port": 4176,
+      "published": false
+    },
+    {
+      "domain": "xmmclash.com.cn",
+      "name": "小猫咪 Clash",
+      "reason": "了解 Clash 客户端与订阅的区别",
+      "port": 4174,
+      "published": false
+    }
+  ]
+}
